@@ -1,1 +1,2 @@
 # OverwatchAIVision
+This is a project to be completed with Paul Yuckerson and Husky with the goal of utilizing AI vision/Machine learning to gather data from screenshots of Overwatch to eventually produce gamestates or identify different information on the screen.

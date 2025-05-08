@@ -1,0 +1,15 @@
+We will look to achieve the following milestones sequentially to achieve the end goal:
+
+Completed:
+
+Future steps:
+ -Get recognition of the player character in base skins
+ -Get recognition of the player in a variety of skins/weapon skins
+ -Get recognition of the map the player is on (default time variant)
+ -Get recognition of the map the player is on (every time variant)
+ -Get recognition of the heroes in the screenshot
+ -Differentiate between friendly heroes and enemy heroes
+ .
+ .
+ .
+ -Have the AI describe what the next step should be to win a fight
