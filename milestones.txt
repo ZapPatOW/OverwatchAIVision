@@ -13,3 +13,7 @@ Future steps:
  .
  .
  -Have the AI describe what the next step should be to win a fight
+
+
+Potential next steps:
+ -Add to a website so people can submit screenshots and have a written description of what to do

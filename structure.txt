@@ -1,0 +1,2 @@
+new videos to process go in Videos folder
+run mp4toPNG.py, giving the filename and which hero it is supposed to be when making training data
